@@ -1,10 +1,10 @@
 HelloAshish
 
-Android app that displays a message. Message color and text can change with in-app buttons.
+Android app that displays a message. Message color, background color, and text can change with in-app buttons.
 
 ### App Walk-though
 
-<img src="https://i.imgur.com/gExgXh4.gif" width=200><br>
+<img src="https://i.imgur.com/mFSCRaP.gif" width=200><br>
 
 
 
@@ -14,7 +14,7 @@ Android app that displays a message. Message color and text can change with in-a
 - [x] 3. User can tap a button to change the text color of the label.
 
 ### Optional User Stories
-- [ ] 1. User can tap a button to change the color of the background view.  
+- [x] 1. User can tap a button to change the color of the background view.  
 - [x] 2. User can tap a button to change the text string of the label - Android is Awesome!  
 - [ ] 3. User can tap on the background view to reset all views to default settings.  
 - [ ] 4. User can update the label text with custom text entered into the text field.  
